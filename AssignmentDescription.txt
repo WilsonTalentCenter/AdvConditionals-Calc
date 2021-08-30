@@ -1,0 +1,39 @@
+/* This assignment has 3 parts (1 of which you alread completed)
+part1:  Create test cases for this assignment.
+part2:  Create a Flowchart or pseudo code for this program- This will not be turned in but will be used as part of the explanation.
+part3:  Create the code in intellij for the program below.
+*/
+
+/*
+Create a simple calculator that supports +,-,/,*  operators, see details below
+
+The program should ask for a number using the following prompt: "enter number for operand:"
+The program should ask for an operator using the following prompt: "enter an operand (+,-,/,*):"
+The program should ask for a second number using the following prompt: "enter number for operand:"
+The program should then calculate the result based on the inputs and display the answer rounded to 2 decimal places.
+
+Any invalid inputs should result in the following message:  "Invalid Input"  and close the program (Note: System.exit(-1); is one way to close the program).
+
+Assumptions: None
+
+
+Example testCases
+//test1 - subtraction test:
+o:enter number for operand:
+i:7
+o:enter an operand (+,-,/,*):
+i:-
+o:Enter sec for 12 hr time format:
+i:2
+o:5.00
+
+//test2 - addition test:
+o:enter number for operand:
+i:7
+o:enter an operand (+,-,/,*):
+i:+
+o:Enter sec for 12 hr time format:
+i:2
+o:9.00
+//
+*/
