@@ -8,7 +8,7 @@ part3:  Create the code in intellij for the program below.
 Create a simple calculator that supports +,-,/,*  operators, see details below
 
 The program should ask for a number using the following prompt: "enter number for operand:"
-The program should ask for an operator using the following prompt: "enter an operand (+,-,/,*):"
+The program should ask for an operator using the following prompt: "enter an operator (+,-,/,*):"
 The program should ask for a second number using the following prompt: "enter number for operand:"
 The program should then calculate the result based on the inputs and display the answer rounded to 2 decimal places.
 
