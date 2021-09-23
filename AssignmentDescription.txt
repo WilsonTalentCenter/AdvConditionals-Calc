@@ -22,7 +22,7 @@ Example testCases
 //test1 - subtraction test:
 o:enter number for operand:
 i:7
-o:enter an operand (+,-,/,*):
+o:enter an operator (+,-,/,*):
 i:-
 o:enter number for operand:
 i:2
@@ -31,7 +31,7 @@ o:5.00
 //test2 - addition test:
 o:enter number for operand:
 i:7
-o:enter an operand (+,-,/,*):
+o:enter an operator (+,-,/,*):
 i:+
 o:enter number for operand:
 i:2
