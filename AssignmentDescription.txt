@@ -13,7 +13,7 @@ The program should ask for a second number using the following prompt: "enter nu
 The program should then calculate the result based on the inputs and display the answer rounded to 2 decimal places.
 
 The program should only accept numbers greater than -1000 and less than 1000  (exclusive)  and should treat numbers outside this range as an invalid input.
-Any invalid inputs should result in the following message:  "Invalid Input"  and close the program (Note: System.exit(-1); is one way to close the program).
+Any invalid inputs should result in the following message:  "Invalid Input"  and close the program (Note: System.exit(1); is one way to close the program).
 
 Assumptions: None
 
